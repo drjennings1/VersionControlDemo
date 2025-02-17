@@ -7,6 +7,6 @@ package com.mycompany.versioncontrol_dylanjennings;
 public class VersionControl_DylanJennings {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World, VersionControlDemo!");
     }
 }
